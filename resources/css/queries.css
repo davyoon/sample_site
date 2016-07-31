@@ -114,6 +114,10 @@
 	.contact-form{
 		width: 100%;
 	}
+	.hero-text-box a{
+		width: 45%;
+		font-size: 80%;
+	}
 }
 
 
